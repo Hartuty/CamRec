@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CamRec</string>
+    <string name="appname">CamRec</string>
+    <string name="hint_text">Enter Username</string>
+    <string name="hint_text2">Password</string>
+    <string name="sign_up">Signup</string>
+    <string name="sign_in">Sign In</string>
+    <string name="indexnumber">Index Number</string>
+    <string name="email">Enter your Emial</string>
+    <string name="email1">Email</string>
+    <string name="enterpass">Enter Password</string>
+    <string name="Repeatpass">Repeat Password</string>
+    <string name="accountexist">Already have Account?</string>
+    <string name="title_activity_homepage">homepage</string>
+    <string name="menu">Menu</string>
+    <string name="apply">Apply</string>
+    <string name="password">Enter Password</string>
+    <string name="Profile">Profile</string>
+</resources>
